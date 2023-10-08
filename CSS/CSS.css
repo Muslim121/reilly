@@ -1,0 +1,250 @@
+@media screen and (min-width: 320px) and (max-width: 1599px){
+*{
+    padding: 0;
+    margin: 0;
+}
+#border{
+    background:black ;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+#reilly{
+    color: yellow;
+    font-style: oblique;
+    margin-left: 8%;
+    padding-top: 0.3%;
+    padding-bottom: 1%;
+    font-family: "Racing Sans One";
+    font-size: 32px;
+}
+#glavnay{
+    padding-top: 0.3%;
+    padding-bottom: 1%;
+    margin-left: 30%;
+    color: yellow;
+}
+#cvadro{
+    margin-top: -8.5px;
+    margin-top: 60px;
+}
+#textmenu{
+    margin-left:90% ;
+}
+#Catalog{
+    font-family: "Fanwood Text";
+    font-size: 42px;
+    text-align: center;
+    margin-top: 2.8%;
+}
+#Nadpis{
+    margin-top: 3%;
+    font-size: 25px;
+    margin-left: 12%;
+}
+.Niz{
+    font-size: 18px;
+    margin-left: 12%;
+    font-family: "Anton";
+    margin-top: -0.2%;
+}
+#div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+#imageone{
+    margin-left: 8%;
+    margin-bottom: -16%;
+    border-radius: 5%;
+}
+.ss{
+    position: relative;
+    font-size: 20px;
+    color: yellow;
+    top: -70%;
+    left: 5in;
+    text-decoration: none;
+}
+.ss:hover{
+    color: red;
+}
+#ss2{
+    position: relative;
+    font-size: 20px;
+    color: yellow;
+    top: -70%;
+    left: 5.3in;
+    text-decoration: none;
+}
+#ss2:hover{
+    color: red;
+}
+#ss3{
+    position: relative;
+    font-size: 20px;
+    color: yellow;
+    top: -70%;
+    left: 5.6in;
+    text-decoration: none;
+}
+#ss3:hover{
+    color: red;
+}
+#p{
+    position: relative;
+    font-size: 20px;
+    color: yellow;
+    top: -102%;
+    left: 12.89in;
+}
+#nomber{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    top: -140%;
+    left: 13in;
+}
+.image{
+    margin-left: 3%;
+    border-radius: 5%;
+    margin-bottom: -16%;
+}
+.dis{
+    display: flex;
+    margin-top: 5%;
+}
+.img{
+    margin-left: 56%;
+    border-radius: 5%;
+    margin-bottom: -32%;
+}
+.imga{
+    margin-left: 284%;
+    border-radius: 5%;
+    margin-bottom: -29%;
+}
+.imgb{
+    margin-left: 250%;
+    border-radius: 5%;
+    margin-bottom: -29%;
+}
+.imgc{
+    margin-left: 20%;
+    border-radius: 5%;
+    margin-bottom: -29%;
+}
+.imgsrc{
+    margin-left: 3%;
+    border-radius: 5%;
+    margin-bottom: -23.5%;
+}
+.smamont{
+    margin-left: 26%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 2%;
+    font-weight: bold;
+}
+.smamont:hover{
+    color: red;
+}
+.sviking{
+    margin-left: 24%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 2%;
+    font-weight: bold;
+}
+.sviking:hover{
+    color: red;
+}
+.shunter{
+    margin-left: 36%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 3%;
+    font-weight: bold;
+}
+.shunter:hover{
+    color: red;
+}
+.sdino{
+    margin-left: 93%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 3%;
+    font-weight: bold;
+}
+.sdino:hover{
+    color: red;
+}
+.stireks{
+    margin-left: 324%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 3%;
+    font-weight: bold;
+}
+.stireks:hover{
+    color: red;
+}
+.shichnik{
+    margin-left: 290%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 3%;
+    font-weight: bold;
+}
+.shichnik:hover{
+    color: red;
+}
+.szver{
+    margin-left: 57%;
+    font-size: 125%;
+    color: black;
+    text-decoration: none;
+    opacity: 80%;
+    background: yellow;
+    border-radius: 15px;
+    padding: 3%;
+    font-weight: bold;
+}
+.szver:hover{
+    color: red;
+}
+#zak{
+    margin-top: 10%;
+}
+}
+
+
+
+
+
+
