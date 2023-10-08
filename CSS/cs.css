@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foto{
+    border-radius: 5%;
+    position: absolute;
+    margin-top: 2%;
+}
+.tekst{
+    text-align: left;
+    margin-left: 25%;
+    font-size: 132%;
+    position: relative;
+    margin-top: 2%;
+}
+.price{
+    font-weight: bold;
+    font-size: 200%;;
+    position: absolute;
+    top: 55%;
+    left: 0.6%;
+    background: black;
+    border-radius: 15px;
+    padding: 0.5%;
+    color: yellow;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.baground{
+    width: 100%;
+    background: black;
+    color: yellow;
+    text-align: center;
+    padding: 1.2%;
+    font-size: 220%;
+    font-weight: bold;
+}
+
